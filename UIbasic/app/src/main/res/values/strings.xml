@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UI basic</string>
+    <string name="LoginPic1">LoginPic1</string>
+    <string name="LoginUser">LoginUser</string>
+    <string name="LoginUserHint">用户名</string>
+    <string name="LoginPwdHint" >密码</string>
+    <string name="LoginBtn1">登录123456789 </string>
+    <string name="AppVersion">0.0.1</string>
+</resources>
